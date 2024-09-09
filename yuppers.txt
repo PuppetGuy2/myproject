@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-ihf;HFDH
-LGAFAGFIUAE
-kuaygfiueagfieaf
-kuilualfkdfvfhhuhfblshdfblhjfblabgfbahgfbailhgulargfblaiwgfbaigfbvlrgfhbralihlwigf
-=======
->>>>>>> parent of 6e08267 (messed everythong)
+this is a test
